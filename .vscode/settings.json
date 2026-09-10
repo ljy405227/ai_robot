@@ -1,0 +1,30 @@
+{
+    "cmake.sourceDirectory": "D:/desktop/ai_robot/ai_robbot_v1.3.0_test_4.13/lib/LovyanGFX",
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "lv_carousel.h": "c",
+        "widgets_init.h": "c",
+        "lvgl.h": "c",
+        "lvgl_init.h": "c",
+        "touch.hpp": "c",
+        "lcd_jap.hpp": "c",
+        "events_init.h": "c",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "my_main.hpp": "c",
+        "stdio.h": "c",
+        "gui_guider.h": "c",
+        "custom.h": "c",
+        "share.h": "c"
+    }
+}
